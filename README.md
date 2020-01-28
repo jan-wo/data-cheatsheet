@@ -1,5 +1,5 @@
 # Data-cheatsheet
-This is reference code for any data-related operations. This is mainly bunch of useful one-liners (Numpy and Pandas). The purpose of creating this repo is to keep all tips and tricks in one place instead of stackoverflowing them.
+This is reference code for any data-related operations. It is mainly bunch of useful one-liners (Numpy and Pandas). The purpose of creating such a repo is to keep all tips and tricks in one place instead of stackoverflowing them.
 
 ### <ins>List of Contents:</ins>
 ---
