@@ -1,7 +1,7 @@
 # data-cheatsheet
-## This is reference code for any data-related operations.
+This is reference code for any data-related operations.
 
-Contents:
+### Contents:
 
 - numpy_basic_methods.py: introduction to Numpy.
 - pandas_basic.py: creating Data Series and Data Frames using pandas. Also selecting subset of data, adding and removing columns and rows.
