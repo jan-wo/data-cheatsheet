@@ -1,7 +1,7 @@
 # Data-cheatsheet
-This is reference code for any data-related operations.
+This is reference code for any data-related operations. This is mainly bunch of useful one-liners (Numpy and Pandas). The purpose of creating this repo is to keep all tips and tricks in one place instead of stackoverflowing them.
 
-### <ins>Contents:</ins>
+### <ins>List of Contents:</ins>
 ---
 - numpy_basic_methods.py: introduction to Numpy.
 - pandas_basic.py: creating Data Series and Data Frames using pandas. Also selecting subset of data, adding and removing columns and rows.
