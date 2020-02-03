@@ -11,4 +11,5 @@ This is reference code for any data-related operations. It is mainly bunch of us
 - pandas_groupby.py: Short example of aggregating data.
 - pandas_combine_df.py: Actually merging, joining and concatenating data.
 - pandas_operations.py: applying functions on columns, built-in methods.
+- pandas_file_input.py: about reading files from various sources (CSV, html. SQL, Excel)
 ---
